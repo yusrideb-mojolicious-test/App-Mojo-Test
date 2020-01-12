@@ -1,4 +1,6 @@
-# Pull Request on Official Mojolicious Repository [#1450](https://github.com/mojolicious/mojo/pull/1450) [![Build Status](https://travis-ci.com/yusrideb-mojolicious-test/App-Mojo-Test.svg?branch=master)](https://travis-ci.com/yusrideb-mojolicious-test/App-Mojo-Test)
+# Pull Request [#1450](https://github.com/mojolicious/mojo/pull/1450) on Official Mojolicious Repository 
+
+[![Build Status](https://travis-ci.com/yusrideb-mojolicious-test/App-Mojo-Test.svg?branch=master)](https://travis-ci.com/yusrideb-mojolicious-test/App-Mojo-Test)
 
 For testing new feature in Test::Mojo
 
